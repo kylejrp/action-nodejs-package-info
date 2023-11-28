@@ -1,6 +1,6 @@
 name: Run build
 
-on: [pull_request]
+on: workflow_dispatch
 
 jobs:
   lint:
