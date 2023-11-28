@@ -1,4 +1,4 @@
-name: 'Get package info'
+name: 'Get package info (fork)'
 description: 'Action for getting information from package.json file'
 branding:
   icon: 'box'
